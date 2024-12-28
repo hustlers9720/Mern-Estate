@@ -52,7 +52,7 @@ VITE_API_URL=http://localhost:5000
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/mern-estate.git
+git clone https://github.com/hustlers9720/mern-estate.git
 cd mern-estate
 
 Install dependencies for both backend and frontend:
